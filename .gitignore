@@ -1,0 +1,12 @@
+###Python###
+
+*.py[cod]
+
+# C extensions
+*.so
+
+# Packages
+bin
+include
+lib
+local
